@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="edulia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/views/frontEnd/theme/edulia.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

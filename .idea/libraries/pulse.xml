@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pulse">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vendor/laravel/pulse.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
