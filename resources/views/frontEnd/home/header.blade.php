@@ -60,7 +60,7 @@
                                     <li class="nav-item"><a class="nav-link" href="elements.html">Elements</a></li>
                                 </ul>
                             </li> -->
-                            <li class="nav-item"><a class="nav-link" href="{{url('/')}}/contact">Contact</a></li>
+                            {{-- <li class="nav-item"><a class="nav-link" href="{{url('/')}}/contact">Contact</a></li> --}}
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
                             <ul class="nav navbar-nav mr-auto search-bar">
